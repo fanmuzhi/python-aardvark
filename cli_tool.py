@@ -155,4 +155,4 @@ def main(args=None):
     return ret
 
 if __name__ == '__main__':
-    main(args={'scan'})
+    main()
